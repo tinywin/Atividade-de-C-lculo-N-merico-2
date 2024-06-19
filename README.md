@@ -59,22 +59,20 @@ O programa exibirá:
 - Gráficos mostrando a evolução das soluções aproximadas, o erro em cada iteração e a distância da solução exata.
 
 ### Exemplo de Sistema
-#### Sistema 2x2
-\[
-\begin{cases}
-10x + 2y = 14 \\
-3x - y = 5
-\end{cases}
-\]
 
-#### Sistema 3x3
-\[
-\begin{cases}
-4x + y - z = 3 \\
-x + 3y + 2z = 15 \\
+## Exemplo de Sistema
+### Sistema 2x2
+```
+10x + 2y = 14
+3x - y = 5
+```
+
+### Sistema 3x3
+```
+4x + y - z = 3
+x + 3y + 2z = 15
 2x - y + 4z = 8
-\end{cases}
-\]
+```
 
 ### Saída Esperada
 A solução aproximada, o número de iterações e os gráficos de convergência serão exibidos para o sistema inserido.
