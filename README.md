@@ -58,8 +58,8 @@ O programa exibirá:
 - Uma tabela com os valores das iterações e os erros.
 - Gráficos mostrando a evolução das soluções aproximadas, o erro em cada iteração e a distância da solução exata.
 
-## Exemplo de Sistema
-### Sistema 2x2
+### Exemplo de Sistema
+#### Sistema 2x2
 \[
 \begin{cases}
 10x + 2y = 14 \\
@@ -67,7 +67,7 @@ O programa exibirá:
 \end{cases}
 \]
 
-### Sistema 3x3
+#### Sistema 3x3
 \[
 \begin{cases}
 4x + y - z = 3 \\
